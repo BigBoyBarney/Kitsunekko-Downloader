@@ -1,13 +1,13 @@
 # Kitsunekko Downloader
 
-Kitsunekko Downloader is a Python to download Japanese subtitles from Kitsunekko.
+Kitsunekko Downloader is a Python script to download Japanese subtitles from Kitsunekko.
 
 ## Features
 
 - **Full Download:** Download subtitles for all available series in one go.
 - **Since Last Download:** Download subtitles uploaded since the last run (if applicable).
 - **Customisable:** Choose a custom date range to download subtitles based on your preferences.
-- **Automatic Organizing:** Subtitles are organized into folders by series.
+- **Automatic Organizing:** Subtitles are organized into folders by anime.
 
 ## Dependencies
 
