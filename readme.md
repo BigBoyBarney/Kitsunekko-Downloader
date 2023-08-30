@@ -4,9 +4,9 @@ Kitsunekko Downloader is a Python script to download Japanese subtitles from Kit
 
 ## Features
 
-- **Full Download:** Download subtitles for all available series in one go.
+- **Full Download:** Download subtitles for all available anime in one go.
 - **Since Last Download:** Download subtitles uploaded since the last run (if applicable).
-- **Customisable:** Choose a custom date range to download subtitles based on your preferences.
+- **Customisable:** Choose a custom date range to download subtitles.
 - **Automatic Organizing:** Subtitles are organized into folders by anime.
 
 ## Dependencies
@@ -39,7 +39,7 @@ cd kitsunekko-downloader
 ```
 3. **Run the Script:**
 ```bash
-python kitsunekko_downloader.py
+python kitsunekko-downloader.py
 ```
 
 Alternatively, you could run the included `start.bat` file.
