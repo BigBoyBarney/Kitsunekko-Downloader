@@ -50,4 +50,4 @@ Contributions to the Kitsunekko Downloader project are welcome! Feel free to for
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under GNU General Public License v3.0.
