@@ -30,7 +30,7 @@ pip install requests beautifulsoup4 futures
 
 1. **Clone the Repository:**
 ```bash
-   git clone https://github.com/BigBoyBarney/kitsunekko-downloader.git
+git clone https://github.com/BigBoyBarney/kitsunekko-downloader.git
 ```
 2. **Navigate to the Project Directory:**
 ```bash
@@ -41,8 +41,6 @@ cd kitsunekko-downloader
 ```bash
 python kitsunekko-downloader.py
 ```
-
-Alternatively, you could run the included `start.bat` file.
 
 ## Contributing
 
