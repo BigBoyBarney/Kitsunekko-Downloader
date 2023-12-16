@@ -21,7 +21,7 @@ Before using Kitsunekko Downloader, ensure you have the following Python depende
 
 You can install the above dependencies using the following command:
 
-```bash
+```
 pip install requests beautifulsoup4 futures
 ```
 
@@ -29,16 +29,16 @@ pip install requests beautifulsoup4 futures
 
 
 1. **Clone the Repository:**
-```bash
+```
 git clone https://github.com/BigBoyBarney/kitsunekko-downloader.git
 ```
 2. **Navigate to the Project Directory:**
-```bash
+```
 cd kitsunekko-downloader
 
 ```
 3. **Run the Script:**
-```bash
+```
 python kitsunekko-downloader.py
 ```
 
