@@ -35,7 +35,6 @@ git clone https://github.com/BigBoyBarney/kitsunekko-downloader.git
 2. **Navigate to the Project Directory:**
 ```
 cd kitsunekko-downloader
-
 ```
 3. **Run the Script:**
 ```
